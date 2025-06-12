@@ -1,7 +1,10 @@
 #Netflix Clone
 
-[netflix-clone Preview, first front page]([images/Screenshot 2025-06-13 011844.png](images/Screenshot 2025-06-13 011844.png))
-) 
+"A simple Netflix clone built with HTML, CSS, and JavaScript, featuring a responsive layout and interactive movie thumbnails."
+
+
+#Demo
+[netflix-clone Preview, first front page](https://github.com/ashokji0040/Netflix-clone/blob/main/images/Screenshot%202025-06-13%20011844.png)
 
 
 #Description
